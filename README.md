@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm Mahammad
 
-<!--
-**MahammadSoltanov/MahammadSoltanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer working with C# and ASP.NET Core.
 
-Here are some ideas to get you started:
+I care most about domain modeling, system architecture, and building
+systems that stay maintainable as they grow: getting entity boundaries
+right, designing state machines that reflect real workflows, and choosing
+abstractions that hold up under production load.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently designing a production-grade platform from scratch — event
+sourcing, 40+ domain entities, complex state machines, escrow, multi-layer authorization.
+
+### What I work with
+
+C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server ·
+Redis · SignalR · Angular · TypeScript · Docker · Clean Architecture ·
+DDD · CQRS
+
+### Writing
+
+I write about software design on LinkedIn: posts on software principles and why code quality is a modeling problem.
+
+→ [linkedin.com/in/mahammad-soltanov](https://www.linkedin.com/in/mahammad-soltanov)
